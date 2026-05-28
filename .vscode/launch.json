@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ASUS/OneDrive/Desktop/Summer_Assignment/day1",
-      "program": "c:/Users/ASUS/OneDrive/Desktop/Summer_Assignment/day1/build/Debug/outDebug",
+      "cwd": "c:/Users/ASUS/OneDrive/Desktop/Summer_Assignment/day3",
+      "program": "c:/Users/ASUS/OneDrive/Desktop/Summer_Assignment/day3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
